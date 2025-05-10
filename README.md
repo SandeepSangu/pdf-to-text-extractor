@@ -15,5 +15,3 @@ Event-driven pipeline triggered by PDF uploads into S3 and stored in DynamoDB.
 ## 🛠️ **Technologies Used:**
 
 `AWS Textract` · `Lambda` · `S3` · `DynamoDB` · `Python` · `Boto3`
-
-📘 *This repo is a hands-on, human-first learning exercise — designed to bridge curiosity and cloud*  
