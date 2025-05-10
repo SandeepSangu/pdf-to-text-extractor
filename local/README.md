@@ -62,7 +62,6 @@ To follow along or replicate this project, ensure the following are in place:
 
 * An `AWS` account (root access only used for visual verification)
 * A dedicated IAM user with the following permissions:
-
   * `AmazonTextractFullAccess`
 * `AWS CLI` installed and configured with the IAM user credentials
 * `Python` 3.9+ installed
@@ -146,6 +145,6 @@ We’ll build on this by:
 
 * Triggering Textract via **AWS Lambda**
 * Parsing and storing results in **DynamoDB**
-* Making the whole thing **automated and production-aligned**
+* We’ll automate everything after the upload — using **AWS services** to handle extraction, parsing, and storage — just like a real-world backend system would.
 
 📘 *Stay tuned for Part 2: “Building a Serverless PDF Ingestion Flow”*
