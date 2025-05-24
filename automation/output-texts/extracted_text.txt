@@ -1,0 +1,30 @@
+Patient Visit Summary
+Date: April 12, 2025
+Patient Name: Tom Johnson
+Patient ID: TJ1023
+Date of Birth: 14-Mar-1980
+Diagnosis: Type 2 Diabetes
+Prescription: Metformin 500mg, twice daily
+Next Visit: May 10, 2025
+
+Patient Name: Bob Smith
+Patient ID: BS2045
+Date of Birth: 05-Aug-1990
+Diagnosis: Migraine
+Prescription: Sumatriptan 50mg as needed
+Next Visit: May 18, 2025
+
+Patient Name: Harry Wilson
+Patient ID: HW3089
+Date of Birth: 21-Nov-1975
+Diagnosis: Hypertension
+Prescription: Amlodipine 10mg daily
+Next Visit: May 25, 2025
+
+Patient Name: Alice Carter
+Patient ID: AC1042
+Date of Birth: 12-Mar-1985
+Diagnosis: Asthma
+Prescription: Albuterol Inhaler, as needed
+Next Visit: April 30, 2025
+
